@@ -1,0 +1,9 @@
+active_chats/
+archived_chats/
+__pycache__/
+
+bug_reports.txt
+logs.txt
+models_concepts.json
+sessions_db.json
+users_sessions.json
