@@ -9,7 +9,7 @@ Download Ollama on your machine
 Bot might work worse on some machines, due to differences in RAM and GPU.
 
 Things to change for your own bot:
+ 1. Inside cogs/Misc.py change bot logs to your case.
+ 2. Inside support.py change app_install_url to your own.
 
-Inside cogs/Misc.py change bot logs to your case.
-Inside support.py change app_install_url to your own.
 ANY USE OF THIS BOT THAT VIOLATES LICENSE IS CONSIDERED STEALING.
